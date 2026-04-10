@@ -1,5 +1,6 @@
 # bot-casino-discord
 Open-source casino bot on Discord
+- python 3.3
 ## 🕹️ GAMEPLAY & COMMANDS
 
 Hệ thống trò chơi giải trí tích hợp các lệnh điều khiển trực quan. Dưới đây là hướng dẫn chi tiết để bạn bắt đầu:
